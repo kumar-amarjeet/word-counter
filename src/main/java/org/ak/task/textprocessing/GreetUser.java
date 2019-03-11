@@ -1,7 +1,7 @@
 /**
  * 
  */
-package ak.task.sample.textprocessing;
+package org.ak.task.textprocessing;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

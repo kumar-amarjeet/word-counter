@@ -1,7 +1,7 @@
 /**
  * 
  */
-package ak.task.sample.textprocessing.security;
+package org.ak.task.textprocessing.security;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package ak.task.sample.textprocessing.util;
+package org.ak.task.textprocessing.util;
 
 import java.io.IOException;
 import java.nio.file.Files;

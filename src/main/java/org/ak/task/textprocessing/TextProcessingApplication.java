@@ -1,4 +1,4 @@
-package ak.task.sample.textprocessing;
+package org.ak.task.textprocessing;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

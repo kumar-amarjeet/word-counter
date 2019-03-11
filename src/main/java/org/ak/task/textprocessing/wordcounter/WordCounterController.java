@@ -1,7 +1,7 @@
 /**
  * 
  */
-package ak.task.sample.textprocessing.wordcounter;
+package org.ak.task.textprocessing.wordcounter;
 
 import java.io.IOException;
 

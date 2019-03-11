@@ -1,7 +1,7 @@
 /**
  * 
  */
-package ak.task.sample.textprocessing.wordcounter;
+package org.ak.task.textprocessing.wordcounter;
 
 import java.io.IOException;
 import java.util.Collections;
@@ -11,9 +11,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 import java.util.stream.Collectors;
-import org.springframework.stereotype.Service;
 
-import ak.task.sample.textprocessing.util.WordCounterUtil;
+import org.ak.task.textprocessing.util.WordCounterUtil;
+import org.springframework.stereotype.Service;
 
 /**
  * @author Amarjeet Kumar
